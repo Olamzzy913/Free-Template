@@ -526,6 +526,18 @@ Ensure the default browser behavior of the `hidden` attribute.
   height: 940px;
 }
 
+.h-\[600px\] {
+  height: 600px;
+}
+
+.h-\[580px\] {
+  height: 580px;
+}
+
+.h-\[560px\] {
+  height: 560px;
+}
+
 .max-h-full {
   max-height: 100%;
 }
