@@ -538,6 +538,18 @@ Ensure the default browser behavior of the `hidden` attribute.
   height: 560px;
 }
 
+.h-\[960px\] {
+  height: 960px;
+}
+
+.h-\[900px\] {
+  height: 900px;
+}
+
+.h-\[880px\] {
+  height: 880px;
+}
+
 .max-h-full {
   max-height: 100%;
 }
@@ -691,6 +703,10 @@ body {
 
   .sm\:h-\[558px\] {
     height: 558px;
+  }
+
+  .sm\:h-\[560px\] {
+    height: 560px;
   }
 }
 
